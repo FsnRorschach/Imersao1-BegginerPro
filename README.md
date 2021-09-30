@@ -1,0 +1,1 @@
+Este projeto é o inicio do curso ministrado pela Faculdade IV2, aqui uma breve explicação sobre o trio ternura, HTML, Css e Javascript.
